@@ -9,7 +9,7 @@ static GBitmap *s_crow_bitmap;
 static void main_window_load(Window *window){
     
   // Create GBitmap, then set to created BitmapLayer
-  s_crow_bitmap = gbitmap_create_with_resource(RESOURCE_ID_CROW);
+  s_crow_bitmap = gbitmap_create_with_resource(RESOURCE_ID_TURKEY);
   s_background_layer = bitmap_layer_create(GRect(0, 56, 144, 112));
   bitmap_layer_set_bitmap(s_background_layer, s_crow_bitmap);
   bitmap_layer_set_background_color(s_background_layer, GColorClear);
