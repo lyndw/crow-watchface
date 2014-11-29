@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Lynd",
+    "longName": "Tutorial 1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/turkey2.png",
+                "name": "TURKEY",
+                "type": "png"
+            },
+            {
+                "file": "images/crow.png",
+                "name": "CROW",
+                "type": "png"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "DOS_FONT_36",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Tutorial 1",
+    "uuid": "384753da-d5b1-48b2-ae50-24246930687d",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
