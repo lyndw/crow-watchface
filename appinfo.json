@@ -4,18 +4,18 @@
         ""
     ],
     "companyName": "Lynd",
-    "longName": "Tutorial 1",
+    "longName": "Crow",
     "projectType": "native",
     "resources": {
         "media": [
             {
-                "file": "images/turkey2.png",
-                "name": "TURKEY",
+                "file": "images/invertedcrow.png",
+                "name": "CROW",
                 "type": "png"
             },
             {
-                "file": "images/crow.png",
-                "name": "CROW",
+                "file": "images/turkey2.png",
+                "name": "TURKEY",
                 "type": "png"
             },
             {
@@ -26,7 +26,7 @@
             }
         ]
     },
-    "shortName": "Tutorial 1",
+    "shortName": "Crow",
     "uuid": "384753da-d5b1-48b2-ae50-24246930687d",
     "versionCode": 1,
     "versionLabel": "1.0",
